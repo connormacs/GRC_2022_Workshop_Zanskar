@@ -1,4 +1,4 @@
-﻿Id,QuaternaryFaultDensity,HorizGravityGradient,GeodeticStrainRate,QuaternarySlipRate,FaultRecency,FaultSlipDilationTendency,Earthquakes,HorizMagneticGradient,Heatflow,DEM-30m,Longitude,Latitude,NAME,MAX_Temp_C,Blind_Status,NET_POWER_Mwe,Depth_m,TrainCode
+﻿Id,QuaternaryFaultDensity,HorizGravityGradient,GeodeticStrainRate,QuaternarySlipRate,FaultRecency,FaultSlipDilationTendency,Earthquakes,HorizMagneticGradient,Heatflow,DEM-30m,Longitude,Latitude,NAME,MAX_Temp_C,Blind_Status,NET_POWER_Mwe_2018,Depth_m,TrainCode
 1,-0.02741026,0.039597294,-0.986602795,-1.008621851,-0.733904647,1.014094242,-0.206033971,-0.754745428,-2.007011602,0.394124865,-115.514322,39.737374,Alligator Ridge well,44,yes,0,,1
 2,0.448725682,1.691344835,1.009807818,-0.0638919,-0.49554339,0.220368841,-0.071265956,1.450432266,-1.33470403,-1.07860927,-119.362042,38.961757,Ambassador Well,110,yes,0,,1
 3,1.070970429,0.373260315,-0.178362891,0.011733945,-0.882393178,1.102452227,-1.200669798,1.677132777,0.196371608,-1.303001337,-118.768078,40.4094,Bach Well,78,yes,0,,1
